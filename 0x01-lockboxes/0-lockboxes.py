@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"A module for working with lockboxes"
 
 
 def canUnlockAll(boxes):
